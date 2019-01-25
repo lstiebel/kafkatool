@@ -1,0 +1,3 @@
+pykafka
+tabulate
+argparse

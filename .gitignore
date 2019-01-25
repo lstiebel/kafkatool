@@ -2,3 +2,5 @@ ssl/
 build
 dist
 kafkatool.egg-info
+.idea
+venv
